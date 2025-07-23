@@ -1,0 +1,31 @@
+<dict>
+  <key>SwitchControlRecipes</key>
+  <array>
+    <dict>
+      <key>Name</key>
+      <string>Head Lock Aim</string>
+      <key>Actions</key>
+      <array>
+        <dict>
+          <key>ActionType</key>
+          <string>Hold at Point</string>
+          <key>Coordinates</key>
+          <string>980,480</string>
+        </dict>
+      </array>
+    </dict>
+    <dict>
+      <key>Name</key>
+      <string>No Recoil</string>
+      <key>Actions</key>
+      <array>
+        <dict>
+          <key>ActionType</key>
+          <string>Swipe Down</string>
+          <key>Speed</key>
+          <integer>5</integer>
+        </dict>
+      </array>
+    </dict>
+  </array>
+</dict>

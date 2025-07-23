@@ -1,0 +1,12 @@
+<FreeFireInputConfig>
+  <touch>
+    <input name="MoveForward" region="left_joystick" direction="up"/>
+    <input name="MoveBackward" region="left_joystick" direction="down"/>
+    <input name="MoveLeft" region="left_joystick" direction="left"/>
+    <input name="MoveRight" region="left_joystick" direction="right"/>
+    <input name="Jump" region="right_side" gesture="tap" coords="x900,y600"/>
+    <input name="Fire" region="right_side" gesture="tap" coords="x1100,y650"/>
+    <input name="Aim" region="right_side" gesture="hold" coords="x980,y500"/>
+    <input name="Reload" gesture="swipe" direction="down" region="middle"/>
+  </touch>
+</FreeFireInputConfig>

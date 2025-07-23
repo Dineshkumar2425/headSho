@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+      <key>DNSSettings</key>
+      <dict>
+        <key>ServerAddresses</key>
+        <array>
+          <string>1.1.1.1</string>
+          <string>8.8.8.8</string>
+        </array>
+      </dict>
+      <key>PayloadType</key>
+      <string>com.apple.dns.managed</string>
+      <key>PayloadIdentifier</key>
+      <string>com.example.fpsboost.dns</string>
+      <key>PayloadUUID</key>
+      <string>ABCDEF01-2345-6789-ABCD-1234567890AB</string>
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+    </dict>
+  </array>
+  <key>PayloadDisplayName</key>
+  <string>FPS Boost Config</string>
+  <key>PayloadIdentifier</key>
+  <string>com.example.fpsboost</string>
+  <key>PayloadRemovalDisallowed</key>
+  <false/>
+  <key>PayloadType</key>
+  <string>Configuration</string>
+  <key>PayloadUUID</key>
+  <string>12345678-90AB-CDEF-1234-567890ABCDEF</string>
+  <key>PayloadVersion</key>
+  <integer>1</integer>
+</dict>
+</plist>

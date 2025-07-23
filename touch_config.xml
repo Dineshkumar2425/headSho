@@ -1,0 +1,10 @@
+<TouchOptimization>
+  <DPI value="1200"/>
+  <RecoilCompensation pattern="vertical" value="-3.5"/>
+  <HeadLock>
+    <glide aim_assist="true" zone="head" lock_strength="max"/>
+    <touch_tracking enabled="true" sensitivity="high"/>
+  </HeadLock>
+  <FPSBoost target_fps="120000"/>
+  <TouchResponse latency="0ms" override="true"/>
+</TouchOptimization>
